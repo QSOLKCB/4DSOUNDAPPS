@@ -6,7 +6,27 @@ Full Disclosure. I expect nor want any prizes, I am not an Academic.
 This was made with me and an ai. So was this I designed it based on SiS2 >
 But the audio, the music ideas, the theory of Sound as a 4th Dimension is all me so suck it! :-)
 Code is AI's Based on my Prompts, so did an I really make it????
-
+<pre>       SiS2~~~
+      / | \~~~
+     /  |  \~~~
+    /E8*|φ-SCL\
+   /    |    / \
+  /     |   /TRI*\
+ /______|  /ALITY|
+|  DIAG  |/      /~~~
+| (1,-2,1)     /~~~
+|    HPV16*   /~~~
+|    /|\    /
+|   / | \  /
+|  /  |  \/
+| /___|___\
+|/    φ    \
+|   /   \   \
+|  /Ouro\   \
+| /boros\   \
+|/_______|___\
+      |101|  // MY THEORY trinary code signature
+      ~~~432Hz QEC x3</pre>
 
 I designed two arrays for information and the viz.
 3x3x3 sierpinkski array and 8x8x8 E8 Triality Rubiks Cube Array.
