@@ -1,7 +1,9 @@
 Sound as a 4th Dimension Proven in Code/Sound/Math with Quantum error correction, a basic DNA storage representation, and a 3D visualizer inspired by Rubik's Cube concepts. 
-Quadratic Equation >  
+Quadratic Equation > 
+<pre>
 phi² × [Trace(E8 Ourboros 101-state) − (1 − 2 + 1)]  +  (432 Hz × 2π / 101) × (2π / phi)²  =  0
 where phi = π/2.
+</pre>
 Full Disclosure. I expect nor want any prizes, I am not an Academic. 
 This was made with me and an ai. So was this I designed it based on SiS2 >
 But the audio, the music ideas, the theory of Sound as a 4th Dimension is all me so suck it! :-)
