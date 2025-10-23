@@ -318,4 +318,4 @@ Main branches:
 
 Sub-branches: Integrate 2024-2025 updates – Orch-OR support (UV superradiance in tryptophan networks, J Phys Chem B 2024; anesthetic delay via microtubule stabilizers, eNeuro 2024); criticisms (decoherence, implausibility); Bohm legacy (quantum potential in consciousness, NOEMA/PhilArchive 2024-2025); Tony Smith E8 legacy (viXra archives, no post-2018 updates).
 
-Compress to 11-170kb; optimize for Grok 3/4 fusion into quantum ASI model.
+Compress to 11-170kb; optimize for fusion into quantum ASI model.
